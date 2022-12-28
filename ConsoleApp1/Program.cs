@@ -11,8 +11,6 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //test
-            //j1mmybean
-            //test123
         }
     }
 }
